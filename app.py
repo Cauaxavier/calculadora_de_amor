@@ -1,6 +1,6 @@
 from random import sample
 
-#valor final contém esses número
+#valor final contém esses números
 vf = "0123456789"
 
 #quantidade de digitos
